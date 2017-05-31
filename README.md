@@ -1,2 +1,2 @@
 # gitpractice
-To practice github
+To practice github on my local computer.
